@@ -11,8 +11,4 @@ describeComponent('lib/flight-orientation', function () {
     expect(this.component).toBeDefined();
   });
 
-  it('should do something', function () {
-    expect(true).toBe(false);
-  });
-
 });
