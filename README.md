@@ -1,4 +1,6 @@
-# flight-orientation [![Build Status](https://travis-ci.org/cameronhunter/flight-orientation.png?branch=master)](https://travis-ci.org/cameronhunter/flight-orientation)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) [![Build Status](https://travis-ci.org/cameronhunter/flight-orientation.svg?branch=master)](https://travis-ci.org/cameronhunter/flight-orientation)
+
+# flight-orientation
 
 A [Flight](https://github.com/twitter/flight) component for device orientation.
 
